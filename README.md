@@ -1,2 +1,3 @@
 # kubernetes
-A awesome K8s learning Repo
+
+An Awesome kubernetes aka K8s learning Repo
